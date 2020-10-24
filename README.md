@@ -1,2 +1,2 @@
 # StyletourWebstore
-<a href="https://shikigeru.github.io/StyletourWebstore/">DEMO</a>
+<a href="https://lunyovyuriy.github.io/StyletourWebstore/">DEMO</a>
